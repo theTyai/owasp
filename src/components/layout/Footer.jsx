@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-1 space-y-6 flex flex-col items-center md:items-start">
             <div className="flex items-center gap-2 text-white">
               <FaShieldAlt size={24} className="text-blue-600" />
-              <span className="text-xl font-bold tracking-tight">OWASP <span className="text-blue-600">MANIT</span></span>
+              <span className="text-xl font-bold tracking-tight">CyberSecurity <span className="text-blue-600">OWASP</span> Consortium</span>
             </div>
             <p className="text-slate-400 leading-relaxed max-w-xs mx-auto md:mx-0">
               The official student chapter of OWASP at MANIT Bhopal. Fostering a secure digital future.

@@ -29,7 +29,7 @@ const Hero = () => {
         >
           <div className="h-[1px] w-12 bg-navy-700"></div>
           <span className="text-brand-blue font-bold tracking-[0.2em] text-xs uppercase">
-            Official Student Body
+            Official Technical Society
           </span>
           <div className="h-[1px] w-12 bg-navy-700"></div>
         </motion.div>
@@ -63,7 +63,7 @@ const Hero = () => {
           initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.5, duration: 1 }}
           className="mt-10 text-3xl md:text-5xl text-text-muted font-bold tracking-tight"
         >
-          MANIT BHOPAL
+          CyberSecurity OWASP Consortium
         </motion.h2>
 
         <motion.p 
